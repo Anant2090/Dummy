@@ -1,1 +1,1 @@
-print("OHH!! HEllo, Mother Fucker you ")
+prit("OHH!! HEllo, Mother Fucker you ")
